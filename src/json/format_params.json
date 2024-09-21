@@ -1,0 +1,637 @@
+{
+    "indicators": [
+        {
+            "channel_full_id": "1.0.0",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A+",
+            "param_name": "Показание А+",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.0.1",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A+_tarif1",
+            "param_name": "Показание A+ тариф №1",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.0.2",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A+_tarif2",
+            "param_name": "Показание A+ тариф №2",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.0.3",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A+_tarif3",
+            "param_name": "Показание A+ тариф №3",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.0.4",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A+_tarif4",
+            "param_name": "Показание A+ тариф №4",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.1.0",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A-",
+            "param_name": "Показание А-",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.1.1",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A-_tarif1",
+            "param_name": "Показание A- тариф №1",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.1.2",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A-_tarif2",
+            "param_name": "Показание A- тариф №2",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.1.3",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A-_tarif3",
+            "param_name": "Показание A- тариф №3",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.1.4",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_A-_tarif4",
+            "param_name": "Показание A- тариф №4",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.2.0",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R+",
+            "param_name": "Показание R+",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.2.1",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R+_tarif1",
+            "param_name": "Показание R+ тариф №1",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.2.2",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R+_tarif2",
+            "param_name": "Показание R+ тариф №2",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.2.3",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R+_tarif3",
+            "param_name": "Показание R+ тариф №3",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.2.4",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R+_tarif4",
+            "param_name": "Показание R+ тариф №4",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.3.0",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R-",
+            "param_name": "Показание R-",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.3.1",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R-_tarif1",
+            "param_name": "Показание R- тариф №1",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.3.2",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R-_tarif2",
+            "param_name": "Показание R- тариф №2",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.3.3",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R-_tarif3",
+            "param_name": "Показание R- тариф №3",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.3.4",
+            "parameter_type": "current",
+            "param_short_name": "current_energytotal_R-_tarif4",
+            "param_name": "Показание R- тариф №4",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.4.0",
+            "parameter_type": "current",
+            "param_short_name": "current_voltage_A",
+            "param_name": "Напряжения фазы А (Ua)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.4.1",
+            "parameter_type": "current",
+            "param_short_name": "current_voltage_B",
+            "param_name": "Напряжения фазы B (Ub)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.4.2",
+            "parameter_type": "current",
+            "param_short_name": "current_voltage_C",
+            "param_name": "Напряжения фазы C (Uc)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.5.0",
+            "parameter_type": "current",
+            "param_short_name": "current_voltage_line_A",
+            "param_name": "Напряжение между фазамы A (Ua)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.5.1",
+            "parameter_type": "current",
+            "param_short_name": "current_voltage_line_B",
+            "param_name": "Напряжение между фазамы B (Ub)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.5.2",
+            "parameter_type": "current",
+            "param_short_name": "current_voltage_line_C",
+            "param_name": "Напряжение между фазамы C (Uc)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.6.0",
+            "parameter_type": "current",
+            "param_short_name": "current_frequency",
+            "param_name": "Частота (F)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.7.0",
+            "parameter_type": "current",
+            "param_short_name": "current_current_A",
+            "param_name": "Ток фазы А (Ia)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.7.1",
+            "parameter_type": "current",
+            "param_short_name": "current_current_B",
+            "param_name": "Ток фазы B (Ib)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.7.2",
+            "parameter_type": "current",
+            "param_short_name": "current_current_C",
+            "param_name": "Ток фазы C (Ic)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.8.0",
+            "parameter_type": "current",
+            "param_short_name": "current_active-power_A",
+            "param_name": "Активная мощность фазы А (Pa)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.8.1",
+            "parameter_type": "current",
+            "param_short_name": "current_active-power_B",
+            "param_name": "Активная мощность фазы B (Pb)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.8.2",
+            "parameter_type": "current",
+            "param_short_name": "current_active-power_C",
+            "param_name": "Активная мощность фазы C (Pc)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.8.3",
+            "parameter_type": "current",
+            "param_short_name": "current_active-power_total",
+            "param_name": "Активная мощность фазы общий (Ps)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.9.0",
+            "parameter_type": "current",
+            "param_short_name": "current_reactive-power_A",
+            "param_name": "Реактивная мощность фазы А (Qa)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.9.1",
+            "parameter_type": "current",
+            "param_short_name": "current_reactive-power_B",
+            "param_name": "Реактивная мощность фазы B (Qb)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.9.2",
+            "parameter_type": "current",
+            "param_short_name": "current_reactive-power_C",
+            "param_name": "Реактивная мощность фазы C (Qc)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.9.3",
+            "parameter_type": "current",
+            "param_short_name": "current_reactive-power_total",
+            "param_name": "Реактивная мощность фазы общий (Qs)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.10.0",
+            "parameter_type": "current",
+            "param_short_name": "current_full-power_A",
+            "param_name": "Полная мощность фазы А (Sa)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.10.1",
+            "parameter_type": "current",
+            "param_short_name": "current_full-power_B",
+            "param_name": "Полная мощность фазы B (Sb)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.10.2",
+            "parameter_type": "current",
+            "param_short_name": "current_full-power_C",
+            "param_name": "Полная мощность фазы C (Sc)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.10.3",
+            "parameter_type": "current",
+            "param_short_name": "current_full-power_total",
+            "param_name": "Полная мощность фазы общий (Ss)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.11.0",
+            "parameter_type": "current",
+            "param_short_name": "current_angle_UI_A",
+            "param_name": "Коэффициент активной мощности в градусах фазы А",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.11.1",
+            "parameter_type": "current",
+            "param_short_name": "current_angle_UI_B",
+            "param_name": "Коэффициент активной мощности в градусах фазы B",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.11.2",
+            "parameter_type": "current",
+            "param_short_name": "current_angle_UI_C",
+            "param_name": "Коэффициент активной мощности в градусах фазы C",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.12.0",
+            "parameter_type": "current",
+            "param_short_name": "current_angle_phase_AB",
+            "param_name": "Угол между векторами напряжений фазы A и фазы B (Uab angle)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.12.1",
+            "parameter_type": "current",
+            "param_short_name": "current_angle_phase_BC",
+            "param_name": "Угол между векторами напряжений фазы B и фазы C (Ubc angle)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.12.2",
+            "parameter_type": "current",
+            "param_short_name": "current_angle_phase_CA",
+            "param_name": "Угол между векторами напряжений фазы C и фазы A (Uca angle)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.13.0",
+            "parameter_type": "current",
+            "param_short_name": "current_coef-active-power_A",
+            "param_name": "Коэффициент активной мощности фазы А (cos(f)a)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.13.1",
+            "parameter_type": "current",
+            "param_short_name": "current_coef-active-power_B",
+            "param_name": "Коэффициент активной мощности фазы B (cos(f)b)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.13.2",
+            "parameter_type": "current",
+            "param_short_name": "current_coef-active-power_C",
+            "param_name": "Коэффициент активной мощности фазы C (cos(f)c)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.13.3",
+            "parameter_type": "current",
+            "param_short_name": "current_coef-active-power_total",
+            "param_name": "Коэффициент активной мощности фазы общий (cos(f)s)",
+            "status": "inactive",
+            "text": ""
+        },        {
+            "channel_full_id": "1.17.0",
+            "parameter_type": "current",
+            "param_short_name": "current_sinusf-reactive-power_A",
+            "param_name": "Коэффициент реактивной мощности фазы А (sin(f)a)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.17.1",
+            "parameter_type": "current",
+            "param_short_name": "current_sinusf-reactive-power_B",
+            "param_name": "Коэффициент реактивной мощности фазы B (sin(f)b)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.17.2",
+            "parameter_type": "current",
+            "param_short_name": "current_sinusf-reactive-power_C",
+            "param_name": "Коэффициент реактивной мощности фазы C (sin(f)c)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.17.3",
+            "parameter_type": "current",
+            "param_short_name": "current_sinusf-reactive-power_total",
+            "param_name": "Коэффициент реактивной мощности фазы общий (sin(f)s)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.14.0",
+            "parameter_type": "current",
+            "param_short_name": "current_coef-reactive-power_A",
+            "param_name": "Коэффициент полной мощности фазы A (tg(f)a)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.14.1",
+            "parameter_type": "current",
+            "param_short_name": "current_coef-reactive-power_B",
+            "param_name": "Коэффициент полной мощности фазы B (tg(f)b)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.14.2",
+            "parameter_type": "current",
+            "param_short_name": "current_coef-reactive-power_C",
+            "param_name": "Коэффициент полной мощности фазы C (tg(f)c)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "1.14.3",
+            "parameter_type": "current",
+            "param_short_name": "current_coef-reactive-power_total",
+            "param_name": "Коэффициент полной мощности фазы общий (tg(f)s)",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "4.8.1",
+            "parameter_type": "archive",
+            "param_short_name": "energyarchive_A+",
+            "param_name": "Активная энергия прием A+",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "4.8.2",
+            "parameter_type": "archive",
+            "param_short_name": "energyarchive_A-",
+            "param_name": "Активная энергия отдача A-",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "4.8.3",
+            "parameter_type": "archive",
+            "param_short_name": "energyarchive_R+",
+            "param_name": "Активная энергия прием R+",
+            "status": "inactive",
+            "text": ""
+        },
+        {
+            "channel_full_id": "4.8.4",
+            "parameter_type": "archive",
+            "param_short_name": "energyarchive_R-",
+            "param_name": "Активная энергия отдача R-",
+            "status": "inactive",
+            "text": ""
+        }
+    ],
+    "indicators_block": [
+        {
+            "channel_full_id": "1.0",
+            "parameter_type": "energy",
+            "param_name": "Активная энергия приём (А+)",
+            "status": "inactive",
+            "text": "кВт"
+        },
+        {
+            "channel_full_id": "1.1",
+            "parameter_type": "energy",
+            "param_name": "Активная энергия отдача (А-)",
+            "status": "inactive",
+            "text": "кВт"
+        },
+        {
+            "channel_full_id": "1.2",
+            "parameter_type": "energy",
+            "param_name": "Реактивная энергия приём (R+)",
+            "status": "inactive",
+            "text": "кВт"
+        },
+        {
+            "channel_full_id": "1.3",
+            "parameter_type": "energy",
+            "param_name": "Реактивная энергия отдача (R-)",
+            "status": "inactive",
+            "text": "кВт"
+        },
+        {
+            "channel_full_id": "1.4",
+            "parameter_type": "electrical_network",
+            "param_name": "Напряжение по фазам (Uф)",
+            "status": "inactive",
+            "text": "В"
+        },
+        {
+            "channel_full_id": "1.5",
+            "parameter_type": "electrical_network",
+            "param_name": "Напряжение между фазам (Uл)",
+            "status": "inactive",
+            "text": "В"
+        },
+        {
+            "channel_full_id": "1.7",
+            "parameter_type": "electrical_network",
+            "param_name": "Ток (I)",
+            "status": "inactive",
+            "text": "A"
+        },
+        {
+            "channel_full_id": "1.8",
+            "parameter_type": "electrical_network",
+            "param_name": "Активная мощность (P)",
+            "status": "inactive",
+            "text": "кВт"
+        },
+        {
+            "channel_full_id": "1.9",
+            "parameter_type": "electrical_network",
+            "param_name": "Реактивная мощность (Q)",
+            "status": "inactive",
+            "text": "кВАр"
+        },
+        {
+            "channel_full_id": "1.10",
+            "parameter_type": "electrical_network",
+            "param_name": "Полная мощность (S)",
+            "status": "inactive",
+            "text": "кВА"
+        },
+        {
+            "channel_full_id": "1.6",
+            "parameter_type": "electrical_network",
+            "param_name": "Частота (F)",
+            "status": "inactive",
+            "text": "Гц"
+        },
+        {
+            "channel_full_id": "1.13",
+            "parameter_type": "electrical_network",
+            "param_name": "Коэффициент активной мощности (cos(f))",
+            "status": "inactive",
+            "text": "-"
+        },        
+        {
+            "channel_full_id": "1.17",
+            "parameter_type": "electrical_network",
+            "param_name": "Коэффициент реактивной мощности (sin(f))",
+            "status": "inactive",
+            "text": "-"
+        },
+        {
+            "channel_full_id": "1.14",
+            "parameter_type": "electrical_network",
+            "param_name": "Коэффициент полной мощности (tg(f))",
+            "status": "inactive",
+            "text": "-"
+        },
+        {
+            "channel_full_id": "1.11",
+            "parameter_type": "electrical_network",
+            "param_name": "Угол коэффициента активной мощности",
+            "status": "inactive",
+            "text": "x°"
+        },
+        {
+            "channel_full_id": "1.12",
+            "parameter_type": "electrical_network",
+            "param_name": "Угол между векторами",
+            "status": "inactive",
+            "text": "x°"
+        },
+        {
+            "channel_full_id": "4.8",
+            "parameter_type": "journal",
+            "param_short_name": "",
+            "param_name": "Журнал событий счетчика",
+            "status": "inactive",
+            "text": "-"
+        }
+    ]
+}
